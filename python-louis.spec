@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	Wiązania Pythona 2 oparte na ctypes do biblioteki liblouis
 Name:		python-louis
 # keep 3.15.x for python2 support
 Version:	3.15.0
-Release:	1
+Release:	3
 License:	LGPL v2.1+
 Group:		Libraries/Python
 #Source0Download: http://liblouis.org/downloads/
